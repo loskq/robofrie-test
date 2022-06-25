@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robofrie-test/static/css/main.c79985db.css",
+    "main.js": "/robofrie-test/static/js/main.571c7e32.js",
+    "static/js/787.1f68941e.chunk.js": "/robofrie-test/static/js/787.1f68941e.chunk.js",
+    "index.html": "/robofrie-test/index.html",
+    "main.c79985db.css.map": "/robofrie-test/static/css/main.c79985db.css.map",
+    "main.571c7e32.js.map": "/robofrie-test/static/js/main.571c7e32.js.map",
+    "787.1f68941e.chunk.js.map": "/robofrie-test/static/js/787.1f68941e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79985db.css",
+    "static/js/main.571c7e32.js"
+  ]
+}
